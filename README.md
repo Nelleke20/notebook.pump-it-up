@@ -1,2 +1,11 @@
-# Pump_it_up first analysis with github 
-Via datadriven.org use dataset of pump it up wells and see if i can work with PyCharm and Github to make it work
+## Introduction 
+I started this project to start with using git on my personal account en experiment with some notebook settings.
+
+## Context
+Drivendata.org is a company that hosts online challenges for social data science projects. 
+One of the projects includes analyzing the workage of waterpumps.
+
+
+
+## Tech
+Git, jupyter-notebooks, venv
