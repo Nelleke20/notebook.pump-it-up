@@ -1,11 +1,21 @@
-## Introduction 
-I started this project to start with using git on my personal account en experiment with some notebook settings.
+#### Introduction 
+The goal of this project was to get started with using git on my personal account and to experiment with some new notebook settings.
 
-## Context
-Drivendata.org is a company that hosts online challenges for social data science projects. 
+##### Table of Contents  
+[Date](#Start)    
+[Context](#Context)      
+[Tech](#Tech)      
+
+---
+
+##### Start of the project
+Dec 28, 2020
+
+##### Context
+Drivendata.org is a company that hosts online challenges for social data science projects.
 One of the projects includes analyzing the workage of waterpumps.
 
+<img src="img/datadriven-pic.png" width="400">
 
-
-## Tech
-Git, jupyter-notebooks, venv
+##### Tech
+Git, venv, jupyter-notebooks, pandas, sklearn, matplotlib
