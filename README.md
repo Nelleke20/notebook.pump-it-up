@@ -2,11 +2,9 @@
 I started this project to start with using git on my personal account en experiment with some notebook settings.
 
 ##### Table of Contents  
-[Date](#Start)   
-
-[Context](#Context)
-
-[Tech](#Tech)
+[Date](#Start)    
+[Context](#Context)      
+[Tech](#Tech)      
 
 ##### Start
 Dec 28, 2020
@@ -15,7 +13,7 @@ Dec 28, 2020
 Drivendata.org is a company that hosts online challenges for social data science projects. 
 One of the projects includes analyzing the workage of waterpumps.
 
-![Alt text](img/datadriven-pic.png)
+![Alt text](img/small-datadriven-pic)
 
 ##### Tech
 Git, venv, jupyter-notebooks, pandas, sklearn, matplotlib
