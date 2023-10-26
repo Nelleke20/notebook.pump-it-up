@@ -13,6 +13,7 @@ Dec 28, 2020
 Drivendata.org is a company that hosts online challenges for social data science projects. 
 One of the projects includes analyzing the workage of waterpumps.
 ![Alt text](img/datadriven-pic.png, width="200", height="200")
+![Image](/img/datadriven-pic.png =300x200)
 
 ##### Tech
 Git, venv, jupyter-notebooks, pandas, sklearn, matplotlib
