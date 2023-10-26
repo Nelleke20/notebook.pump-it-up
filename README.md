@@ -1,5 +1,5 @@
 #### Introduction 
-I started this project to start with using git on my personal account en experiment with some notebook settings.
+The goal of this project was to get started with using git on my personal account and to experiment with some new notebook settings.
 
 ##### Table of Contents  
 [Date](#Start)    
@@ -8,11 +8,11 @@ I started this project to start with using git on my personal account en experim
 
 ---
 
-##### Start
+##### Start of the project
 Dec 28, 2020
 
 ##### Context
-Drivendata.org is a company that hosts online challenges for social data science projects. 
+Drivendata.org is a company that hosts online challenges for social data science projects.
 One of the projects includes analyzing the workage of waterpumps.
 
 ![Alt text](img/datadriven-pic.png)
