@@ -4,7 +4,7 @@ I started this project to start with using git on my personal account en experim
 ##### Table of Contents  
 [Date](#Start)  
 [Context](#Context) 
-[Tech] (#Tech)
+[Tech](#Tech)
 
 ##### Start
 Dec 28, 2020
