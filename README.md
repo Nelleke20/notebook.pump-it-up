@@ -1,9 +1,10 @@
 #### Introduction 
 I started this project to start with using git on my personal account en experiment with some notebook settings.
+![Alt text](img/datadriven-pic.png)
 
 ##### Table of Contents  
-[Date](#Start)  
-[Context](#Context) 
+[Date](#Start)
+[Context](#Context)
 [Tech](#Tech)
 
 ##### Start
