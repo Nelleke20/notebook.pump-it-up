@@ -6,6 +6,8 @@ I started this project to start with using git on my personal account en experim
 [Context](#Context)      
 [Tech](#Tech)      
 
+---
+
 ##### Start
 Dec 28, 2020
 
