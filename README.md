@@ -6,7 +6,7 @@ Dec 28, 2020
 
 #### Context
 Drivendata.org is a company that hosts online challenges for social data science projects.
-One of the projects includes analyzing the workage of waterpumps.
+One of the projects included analyzing the workage of waterpumps and predict repairs.
 
 <p align="center" width="100%">
     <img width="75%" src="img/datadriven-pic.png"> 
