@@ -1,4 +1,4 @@
-##### Introduction 
+### Introduction 
 The goal of this project was to get started with using git on my personal account and to experiment with some new notebook settings.
 
 #### Starting date
